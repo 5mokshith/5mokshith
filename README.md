@@ -18,7 +18,7 @@ I'm a passionate **Computer Science Engineering student** who loves to build and
 ### 📫 How to Reach Me  
 📧 **Email**: mokshithrao1481@gmail.com  
 💼 **LinkedIn**: [Mokshith Rao](https://www.linkedin.com/in/mokshith-rao-50a385290)
-🌐**Portfolio** [Mokshith Rao](https://mokshith.vercel.app)
+🌐 **Portfolio**: [Mokshith Rao](https://mokshith.vercel.app)
 ---
 
 💻 *I love building things, learning, and sharing knowledge! Let's connect and create something awesome together!* 🚀
