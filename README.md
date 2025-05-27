@@ -2,7 +2,6 @@
 
 ### 🚀 About Me  
 I'm a passionate **Computer Science Engineering student** who loves building and exploring new technologies. My interests include **Open Source**, **Full-Stack Web Development**, and **Machine Learning**. I enjoy contributing to meaningful projects and constantly learning and growing as a developer.
-
 ---
 
 ### 🔍 Currently Working On  
