@@ -20,7 +20,7 @@ and sharing knowledge with others.
 ## Tech Stack
 
 **Languages:**  
-JavaScript, Python  
+JavaScript, Python, TypeScript  
 
 **Frontend:**  
 HTML, CSS, React  
