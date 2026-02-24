@@ -6,7 +6,7 @@ Full-Stack Engineer • AI Systems Builder • Product Architect
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I design and build **AI-driven software systems, autonomous developer tools, and production-grade web/mobile applications**.
 
@@ -28,7 +28,7 @@ Currently working on:
 
 ---
 
-## ⚙️ Engineering Philosophy
+##  Engineering Philosophy
 
 - Systems > Features
 - Architecture > Framework hype
@@ -39,7 +39,7 @@ I prefer building **modular, observable, scalable systems** rather than isolated
 
 ---
 
-## 🏗️ Core Technical Domains
+##  Core Technical Domains
 
 ### AI Engineering
 
@@ -67,11 +67,11 @@ I prefer building **modular, observable, scalable systems** rather than isolated
 
 ---
 
-## 🚧 Key Projects
+##  Key Projects
 
 ---
 
-### 🤖 AutoDev — Autonomous AI Code Editor
+###  AutoDev — Autonomous AI Code Editor
 
 Cursor-inspired autonomous development platform capable of converting natural language into full application repositories.
 
@@ -98,7 +98,7 @@ Inngest • AI SDK • Multi-LLM APIs
 
 ---
 
-### 🍳 ChefMate — AI Meal Planning Platform
+###  ChefMate — AI Meal Planning Platform
 
 AI powered recipe generation and nutrition planning mobile application.
 
@@ -123,7 +123,7 @@ React • TailwindCSS • Node.js • Express • Supabase • Gemini API
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
 ### Full Stack Developer — Startup Environment
 
@@ -139,7 +139,7 @@ Work includes:
 
 ---
 
-## 🧩 Technical Stack
+##  Technical Stack
 
 ### Languages
 
@@ -174,7 +174,7 @@ Groq
 
 ---
 
-## 🧱 Architectural Interests
+##  Architectural Interests
 
 - Autonomous AI software development
 - Developer copilots
@@ -185,7 +185,7 @@ Groq
 
 ---
 
-## 📈 Current Exploration
+##  Current Exploration
 
 - Dynamic learning systems for AI coding agents
 - Predictive coding models
@@ -194,7 +194,7 @@ Groq
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 LinkedIn → https://linkedin.com/in/mokshith  
 Portfolio → https://mokshith.vercel.app  
@@ -202,4 +202,4 @@ Email → mokshithrao1481@gmail.com
 
 ---
 
-⭐ Always open to collaboration on ambitious engineering problems.
+ Always open to collaboration on ambitious engineering problems.
