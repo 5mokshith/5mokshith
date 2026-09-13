@@ -12,7 +12,7 @@ I work on backend and infrastructure — Node and Go services, Postgres, and SQS
 
 ### What's here
 
-[**AutoDev**](https://github.com/5mokshith/AutoDev) — browser-based AI code editor. Runs a full Node runtime in the browser through WebContainers, with agents across Gemini, OpenAI, Anthropic and Groq. Built Jan–Mar 2026; mine apart from six commits from a collaborator.
+[**AutoDev**](https://github.com/5mokshith/AutoDev) — browser-based AI code editor. Runs a full Node runtime in the browser through WebContainers, with agents across Gemini, OpenAI and Groq. Built Jan–Mar 2026; mine apart from six commits from a collaborator.
 
 [**Portfolio**](https://github.com/5mokshith/Portfolio) — source of [mokshith.vercel.app](https://mokshith.vercel.app/).
 
